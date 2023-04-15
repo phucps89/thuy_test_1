@@ -1,8 +1,3 @@
-
-<div align="center">
-    <h1>Might Mix Core</h1>
-</div>
-
 ## Prerequisite
 - PHP **8.0** or above
 - Extensions: **json**, **swoole**
